@@ -1,0 +1,18 @@
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\bin\Debug\demo2 for onlnexam.exe
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\bin\Debug\demo2 for onlnexam.pdb
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2 for onlnexam.csprojResolveAssemblyReference.cache
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2_for_onlnexam.adminform.resources
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2_for_onlnexam.Form1.resources
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2_for_onlnexam.Properties.Resources.resources
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2 for onlnexam.csproj.GenerateResource.Cache
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2 for onlnexam.exe
+c:\users\inshu-pc\documents\visual studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2 for onlnexam.pdb
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2 for onlnexam.exe
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2 for onlnexam.pdb
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2 for onlnexam.csprojResolveAssemblyReference.cache
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2_for_onlnexam.adminform.resources
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2_for_onlnexam.Form1.resources
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2_for_onlnexam.Properties.Resources.resources
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\obj\Debug\demo2 for onlnexam.csproj.GenerateResource.Cache
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\bin\Debug\demo2 for onlnexam.exe
+C:\Users\inshu\Documents\Visual Studio 2012\Projects\demo2 for onlnexam\demo2 for onlnexam\bin\Debug\demo2 for onlnexam.pdb
